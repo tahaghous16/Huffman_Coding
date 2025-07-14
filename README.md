@@ -1,4 +1,4 @@
-# 📦 Huffman Coding - Text Compression in C++
+# 📦 Huffman Coding 
 
 This project demonstrates the **implementation of Huffman Coding**, a well-known algorithm for data compression. Huffman Coding works by assigning shorter binary codes to more frequent characters, thereby reducing the size of the text.
 
